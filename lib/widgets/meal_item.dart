@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:transparent_image/transparent_image.dart';
+import 'package:transparent_image/transparent_image.dart'; // 'dart pub add transparent_image' in cli 
 import 'package:flutter_meal_app/models/meal.dart';
 
 class MealItem extends StatelessWidget {
